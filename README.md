@@ -9,7 +9,7 @@
 
 🎓 Eu estudo Engenharia de Software | Desenvolvimento de Software com Foco em Back-End  @  UNIFAN - Centro Universitario Nobre
 
-👩‍💻 Atualmente eu trabalho como Estagiario @ Grupo Acalanto
+👩‍💻 Atualmente eu trabalho como Assistente de TI @ Grupo Acalanto
 
 🔎 Também sou curioso sobre I.A e Gerenciamento de Projetos
 
